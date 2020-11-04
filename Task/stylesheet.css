@@ -1,0 +1,61 @@
+/*This is my stylesheet for the form*/
+
+
+.body{
+    background-image: url("wp2900885.jpg");
+    background-repeat: no-repeat;
+    background-size: 100rem;
+}
+
+h1{
+    text-align: center;
+    padding-top: 8rem;
+    color: white;
+}
+
+h5{
+    text-align: center;
+    color: white;
+}
+
+.heading{
+    text-align: left;
+    color: white;
+    padding-top: 0rem;
+}
+
+.form1{
+    text-align: center;
+    border: none;
+}
+
+.form2{
+    text-align: left;
+    border: none;
+}
+
+
+.background{
+    background-image: url("Hacker Background 1.jpg");
+    background-size: 100rem;
+}
+
+p{
+    color: white;
+}
+
+label{
+    color: white;
+}
+
+.paragraph{
+    color: white;
+    text-align: center;
+    padding-top: 8rem;
+}
+
+.design{
+    text-align: center;
+    color: white;
+    padding-top: 0rem;
+}
